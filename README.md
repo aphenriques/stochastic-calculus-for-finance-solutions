@@ -12,3 +12,7 @@ I am using as reference the excellent solution manuals by Yan Zeng found at:
 
 ## Author
 André Pereira Henriques [aphenriques (at) outlook (dot) com].
+
+## Donations
+BTC: 1BdPza4JSYxKt4YAgPm579ZEqK2hHQNfij
+ETH: 0xc8eD4EcCAd66BD928EB9B1696a05AeFf8DBA699e
